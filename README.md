@@ -21,4 +21,4 @@ If adding multiple images make sure they are separated by commas, and that each 
 The killall is necessary if you're using Chrome and want the changes to immediately take effect. You can change this to your browser if it doesn't refresh hosts on change or remove it if you don't need it.
 ![](https://i.imgur.com/bzuDJ9J.jpg)
 
-
+If you want to schedule the file to execute automatically, look in to crontab https://www.jessicayung.com/automate-running-a-script-using-crontab/
